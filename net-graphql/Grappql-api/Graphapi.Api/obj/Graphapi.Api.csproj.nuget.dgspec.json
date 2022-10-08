@@ -1,0 +1,296 @@
+{
+  "format": 1,
+  "restore": {
+    "D:\\1. beto\\1.3. mycode\\Samples\\BeyondNet.Samples.NetGraphQL\\Grappql-api\\Graphapi.Api\\Graphapi.Api.csproj": {}
+  },
+  "projects": {
+    "D:\\1. beto\\1.3. mycode\\Samples\\BeyondNet.Samples.NetGraphQL\\Grappql-api\\Graphapi.Api\\Graphapi.Api.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "D:\\1. beto\\1.3. mycode\\Samples\\BeyondNet.Samples.NetGraphQL\\Grappql-api\\Graphapi.Api\\Graphapi.Api.csproj",
+        "projectName": "Graphapi.Api",
+        "projectPath": "D:\\1. beto\\1.3. mycode\\Samples\\BeyondNet.Samples.NetGraphQL\\Grappql-api\\Graphapi.Api\\Graphapi.Api.csproj",
+        "packagesPath": "C:\\Users\\beyon\\.nuget\\packages\\",
+        "outputPath": "D:\\1. beto\\1.3. mycode\\Samples\\BeyondNet.Samples.NetGraphQL\\Grappql-api\\Graphapi.Api\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages",
+          "C:\\Program Files (x86)\\Microsoft\\Xamarin\\NuGet\\"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\beyon\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Xamarin.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net5.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {},
+          "https://www.myget.org/F/beyondnet-products/api/v2": {},
+          "https://www.myget.org/F/beyondnet-products/api/v3/index.json": {}
+        },
+        "frameworks": {
+          "net5.0": {
+            "targetAlias": "net5.0",
+            "projectReferences": {
+              "D:\\1. beto\\1.3. mycode\\Samples\\BeyondNet.Samples.NetGraphQL\\Grappql-api\\Graphapi.Data\\Graphapi.Data.csproj": {
+                "projectPath": "D:\\1. beto\\1.3. mycode\\Samples\\BeyondNet.Samples.NetGraphQL\\Grappql-api\\Graphapi.Data\\Graphapi.Data.csproj"
+              },
+              "D:\\1. beto\\1.3. mycode\\Samples\\BeyondNet.Samples.NetGraphQL\\Grappql-api\\Graphapi.Graphql\\Graphapi.Graphql.csproj": {
+                "projectPath": "D:\\1. beto\\1.3. mycode\\Samples\\BeyondNet.Samples.NetGraphQL\\Grappql-api\\Graphapi.Graphql\\Graphapi.Graphql.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net5.0": {
+          "targetAlias": "net5.0",
+          "dependencies": {
+            "EntityFramework": {
+              "target": "Package",
+              "version": "[6.4.4, )"
+            },
+            "GraphQL": {
+              "target": "Package",
+              "version": "[4.6.1, )"
+            },
+            "GraphQL.Server.Transports.AspNetCore": {
+              "target": "Package",
+              "version": "[5.0.2, )"
+            },
+            "GraphQL.Server.Transports.AspNetCore.SystemTextJson": {
+              "target": "Package",
+              "version": "[5.0.2, )"
+            },
+            "GraphQL.Server.Ui.Playground": {
+              "target": "Package",
+              "version": "[5.0.2, )"
+            },
+            "Microsoft.EntityFrameworkCore.SqlServer": {
+              "target": "Package",
+              "version": "[5.0.11, )"
+            },
+            "Microsoft.EntityFrameworkCore.Sqlite": {
+              "target": "Package",
+              "version": "[5.0.11, )"
+            },
+            "Microsoft.EntityFrameworkCore.Tools": {
+              "include": "Runtime, Build, Native, ContentFiles, Analyzers, BuildTransitive",
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[5.0.11, )"
+            },
+            "Microsoft.Extensions.DependencyInjection": {
+              "target": "Package",
+              "version": "[5.0.2, )"
+            },
+            "Microsoft.Extensions.DependencyInjection.Abstractions": {
+              "target": "Package",
+              "version": "[5.0.0, )"
+            },
+            "Microsoft.VisualStudio.Web.CodeGeneration.Design": {
+              "target": "Package",
+              "version": "[5.0.2, )"
+            },
+            "Swashbuckle.AspNetCore": {
+              "target": "Package",
+              "version": "[5.6.3, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.AspNetCore.App": {
+              "privateAssets": "none"
+            },
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.402\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "D:\\1. beto\\1.3. mycode\\Samples\\BeyondNet.Samples.NetGraphQL\\Grappql-api\\Graphapi.Data\\Graphapi.Data.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "D:\\1. beto\\1.3. mycode\\Samples\\BeyondNet.Samples.NetGraphQL\\Grappql-api\\Graphapi.Data\\Graphapi.Data.csproj",
+        "projectName": "Graphapi.Data",
+        "projectPath": "D:\\1. beto\\1.3. mycode\\Samples\\BeyondNet.Samples.NetGraphQL\\Grappql-api\\Graphapi.Data\\Graphapi.Data.csproj",
+        "packagesPath": "C:\\Users\\beyon\\.nuget\\packages\\",
+        "outputPath": "D:\\1. beto\\1.3. mycode\\Samples\\BeyondNet.Samples.NetGraphQL\\Grappql-api\\Graphapi.Data\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages",
+          "C:\\Program Files (x86)\\Microsoft\\Xamarin\\NuGet\\"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\beyon\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Xamarin.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net5.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {},
+          "https://www.myget.org/F/beyondnet-products/api/v2": {},
+          "https://www.myget.org/F/beyondnet-products/api/v3/index.json": {}
+        },
+        "frameworks": {
+          "net5.0": {
+            "targetAlias": "net5.0",
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net5.0": {
+          "targetAlias": "net5.0",
+          "dependencies": {
+            "EntityFramework": {
+              "target": "Package",
+              "version": "[6.4.4, )"
+            },
+            "GraphQL": {
+              "target": "Package",
+              "version": "[4.6.1, )"
+            },
+            "GraphQL.Server.Transports.AspNetCore": {
+              "target": "Package",
+              "version": "[5.0.2, )"
+            },
+            "GraphQL.Server.Ui.Playground": {
+              "target": "Package",
+              "version": "[5.0.2, )"
+            },
+            "Microsoft.EntityFrameworkCore.Sqlite": {
+              "target": "Package",
+              "version": "[5.0.11, )"
+            },
+            "Microsoft.Extensions.DependencyInjection": {
+              "target": "Package",
+              "version": "[5.0.2, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.402\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "D:\\1. beto\\1.3. mycode\\Samples\\BeyondNet.Samples.NetGraphQL\\Grappql-api\\Graphapi.Graphql\\Graphapi.Graphql.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "D:\\1. beto\\1.3. mycode\\Samples\\BeyondNet.Samples.NetGraphQL\\Grappql-api\\Graphapi.Graphql\\Graphapi.Graphql.csproj",
+        "projectName": "Graphapi.Graphql",
+        "projectPath": "D:\\1. beto\\1.3. mycode\\Samples\\BeyondNet.Samples.NetGraphQL\\Grappql-api\\Graphapi.Graphql\\Graphapi.Graphql.csproj",
+        "packagesPath": "C:\\Users\\beyon\\.nuget\\packages\\",
+        "outputPath": "D:\\1. beto\\1.3. mycode\\Samples\\BeyondNet.Samples.NetGraphQL\\Grappql-api\\Graphapi.Graphql\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages",
+          "C:\\Program Files (x86)\\Microsoft\\Xamarin\\NuGet\\"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\beyon\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Xamarin.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net5.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {},
+          "https://www.myget.org/F/beyondnet-products/api/v2": {},
+          "https://www.myget.org/F/beyondnet-products/api/v3/index.json": {}
+        },
+        "frameworks": {
+          "net5.0": {
+            "targetAlias": "net5.0",
+            "projectReferences": {
+              "D:\\1. beto\\1.3. mycode\\Samples\\BeyondNet.Samples.NetGraphQL\\Grappql-api\\Graphapi.Data\\Graphapi.Data.csproj": {
+                "projectPath": "D:\\1. beto\\1.3. mycode\\Samples\\BeyondNet.Samples.NetGraphQL\\Grappql-api\\Graphapi.Data\\Graphapi.Data.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net5.0": {
+          "targetAlias": "net5.0",
+          "dependencies": {
+            "GraphQL": {
+              "target": "Package",
+              "version": "[4.6.1, )"
+            },
+            "GraphQL.Server.Transports.AspNetCore": {
+              "target": "Package",
+              "version": "[5.0.2, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.402\\RuntimeIdentifierGraph.json"
+        }
+      }
+    }
+  }
+}

@@ -1,0 +1,29 @@
+C:\Users\alberto.arroyo\Documents\GitHub\BeyondNet.Samples.NetGraphQL\Grappql-api\Graphapi.Data\bin\Debug\net5.0\Graphapi.Data.deps.json
+C:\Users\alberto.arroyo\Documents\GitHub\BeyondNet.Samples.NetGraphQL\Grappql-api\Graphapi.Data\bin\Debug\net5.0\Graphapi.Data.runtimeconfig.json
+C:\Users\alberto.arroyo\Documents\GitHub\BeyondNet.Samples.NetGraphQL\Grappql-api\Graphapi.Data\bin\Debug\net5.0\Graphapi.Data.runtimeconfig.dev.json
+C:\Users\alberto.arroyo\Documents\GitHub\BeyondNet.Samples.NetGraphQL\Grappql-api\Graphapi.Data\bin\Debug\net5.0\Graphapi.Data.dll
+C:\Users\alberto.arroyo\Documents\GitHub\BeyondNet.Samples.NetGraphQL\Grappql-api\Graphapi.Data\bin\Debug\net5.0\ref\Graphapi.Data.dll
+C:\Users\alberto.arroyo\Documents\GitHub\BeyondNet.Samples.NetGraphQL\Grappql-api\Graphapi.Data\bin\Debug\net5.0\Graphapi.Data.pdb
+C:\Users\alberto.arroyo\Documents\GitHub\BeyondNet.Samples.NetGraphQL\Grappql-api\Graphapi.Data\obj\Debug\net5.0\Graphapi.Data.csproj.AssemblyReference.cache
+C:\Users\alberto.arroyo\Documents\GitHub\BeyondNet.Samples.NetGraphQL\Grappql-api\Graphapi.Data\obj\Debug\net5.0\Graphapi.Data.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\alberto.arroyo\Documents\GitHub\BeyondNet.Samples.NetGraphQL\Grappql-api\Graphapi.Data\obj\Debug\net5.0\Graphapi.Data.AssemblyInfoInputs.cache
+C:\Users\alberto.arroyo\Documents\GitHub\BeyondNet.Samples.NetGraphQL\Grappql-api\Graphapi.Data\obj\Debug\net5.0\Graphapi.Data.AssemblyInfo.cs
+C:\Users\alberto.arroyo\Documents\GitHub\BeyondNet.Samples.NetGraphQL\Grappql-api\Graphapi.Data\obj\Debug\net5.0\Graphapi.Data.csproj.CoreCompileInputs.cache
+C:\Users\alberto.arroyo\Documents\GitHub\BeyondNet.Samples.NetGraphQL\Grappql-api\Graphapi.Data\obj\Debug\net5.0\Graphapi.Data.dll
+C:\Users\alberto.arroyo\Documents\GitHub\BeyondNet.Samples.NetGraphQL\Grappql-api\Graphapi.Data\obj\Debug\net5.0\ref\Graphapi.Data.dll
+C:\Users\alberto.arroyo\Documents\GitHub\BeyondNet.Samples.NetGraphQL\Grappql-api\Graphapi.Data\obj\Debug\net5.0\Graphapi.Data.pdb
+C:\Users\alberto.arroyo\Documents\GitHub\BeyondNet.Samples.NetGraphQL\Grappql-api\Graphapi.Data\obj\Debug\net5.0\Graphapi.Data.genruntimeconfig.cache
+D:\1. beto\1.3. mycode\Samples\BeyondNet.Samples.NetGraphQL\Grappql-api\Graphapi.Data\bin\Debug\net5.0\Graphapi.Data.deps.json
+D:\1. beto\1.3. mycode\Samples\BeyondNet.Samples.NetGraphQL\Grappql-api\Graphapi.Data\bin\Debug\net5.0\Graphapi.Data.runtimeconfig.json
+D:\1. beto\1.3. mycode\Samples\BeyondNet.Samples.NetGraphQL\Grappql-api\Graphapi.Data\bin\Debug\net5.0\Graphapi.Data.runtimeconfig.dev.json
+D:\1. beto\1.3. mycode\Samples\BeyondNet.Samples.NetGraphQL\Grappql-api\Graphapi.Data\bin\Debug\net5.0\Graphapi.Data.dll
+D:\1. beto\1.3. mycode\Samples\BeyondNet.Samples.NetGraphQL\Grappql-api\Graphapi.Data\bin\Debug\net5.0\ref\Graphapi.Data.dll
+D:\1. beto\1.3. mycode\Samples\BeyondNet.Samples.NetGraphQL\Grappql-api\Graphapi.Data\bin\Debug\net5.0\Graphapi.Data.pdb
+D:\1. beto\1.3. mycode\Samples\BeyondNet.Samples.NetGraphQL\Grappql-api\Graphapi.Data\obj\Debug\net5.0\Graphapi.Data.GeneratedMSBuildEditorConfig.editorconfig
+D:\1. beto\1.3. mycode\Samples\BeyondNet.Samples.NetGraphQL\Grappql-api\Graphapi.Data\obj\Debug\net5.0\Graphapi.Data.AssemblyInfoInputs.cache
+D:\1. beto\1.3. mycode\Samples\BeyondNet.Samples.NetGraphQL\Grappql-api\Graphapi.Data\obj\Debug\net5.0\Graphapi.Data.AssemblyInfo.cs
+D:\1. beto\1.3. mycode\Samples\BeyondNet.Samples.NetGraphQL\Grappql-api\Graphapi.Data\obj\Debug\net5.0\Graphapi.Data.csproj.CoreCompileInputs.cache
+D:\1. beto\1.3. mycode\Samples\BeyondNet.Samples.NetGraphQL\Grappql-api\Graphapi.Data\obj\Debug\net5.0\Graphapi.Data.dll
+D:\1. beto\1.3. mycode\Samples\BeyondNet.Samples.NetGraphQL\Grappql-api\Graphapi.Data\obj\Debug\net5.0\ref\Graphapi.Data.dll
+D:\1. beto\1.3. mycode\Samples\BeyondNet.Samples.NetGraphQL\Grappql-api\Graphapi.Data\obj\Debug\net5.0\Graphapi.Data.pdb
+D:\1. beto\1.3. mycode\Samples\BeyondNet.Samples.NetGraphQL\Grappql-api\Graphapi.Data\obj\Debug\net5.0\Graphapi.Data.genruntimeconfig.cache

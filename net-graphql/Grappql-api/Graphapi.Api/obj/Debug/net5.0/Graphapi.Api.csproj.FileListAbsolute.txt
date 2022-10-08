@@ -1,0 +1,356 @@
+C:\Users\alberto.arroyo\Documents\GitHub\BeyondNet.Samples.NetGraphQL\Grappql-api\Graphapi.Api\bin\Debug\net5.0\appsettings.Development.json
+C:\Users\alberto.arroyo\Documents\GitHub\BeyondNet.Samples.NetGraphQL\Grappql-api\Graphapi.Api\bin\Debug\net5.0\appsettings.json
+C:\Users\alberto.arroyo\Documents\GitHub\BeyondNet.Samples.NetGraphQL\Grappql-api\Graphapi.Api\bin\Debug\net5.0\Graphapi.Api.exe
+C:\Users\alberto.arroyo\Documents\GitHub\BeyondNet.Samples.NetGraphQL\Grappql-api\Graphapi.Api\bin\Debug\net5.0\Graphapi.Api.deps.json
+C:\Users\alberto.arroyo\Documents\GitHub\BeyondNet.Samples.NetGraphQL\Grappql-api\Graphapi.Api\bin\Debug\net5.0\Graphapi.Api.runtimeconfig.json
+C:\Users\alberto.arroyo\Documents\GitHub\BeyondNet.Samples.NetGraphQL\Grappql-api\Graphapi.Api\bin\Debug\net5.0\Graphapi.Api.runtimeconfig.dev.json
+C:\Users\alberto.arroyo\Documents\GitHub\BeyondNet.Samples.NetGraphQL\Grappql-api\Graphapi.Api\bin\Debug\net5.0\Graphapi.Api.dll
+C:\Users\alberto.arroyo\Documents\GitHub\BeyondNet.Samples.NetGraphQL\Grappql-api\Graphapi.Api\bin\Debug\net5.0\ref\Graphapi.Api.dll
+C:\Users\alberto.arroyo\Documents\GitHub\BeyondNet.Samples.NetGraphQL\Grappql-api\Graphapi.Api\bin\Debug\net5.0\Graphapi.Api.pdb
+C:\Users\alberto.arroyo\Documents\GitHub\BeyondNet.Samples.NetGraphQL\Grappql-api\Graphapi.Api\bin\Debug\net5.0\EntityFramework.SqlServer.dll
+C:\Users\alberto.arroyo\Documents\GitHub\BeyondNet.Samples.NetGraphQL\Grappql-api\Graphapi.Api\bin\Debug\net5.0\EntityFramework.dll
+C:\Users\alberto.arroyo\Documents\GitHub\BeyondNet.Samples.NetGraphQL\Grappql-api\Graphapi.Api\bin\Debug\net5.0\GraphQL.dll
+C:\Users\alberto.arroyo\Documents\GitHub\BeyondNet.Samples.NetGraphQL\Grappql-api\Graphapi.Api\bin\Debug\net5.0\GraphQL-Parser.dll
+C:\Users\alberto.arroyo\Documents\GitHub\BeyondNet.Samples.NetGraphQL\Grappql-api\Graphapi.Api\bin\Debug\net5.0\GraphQL.DataLoader.dll
+C:\Users\alberto.arroyo\Documents\GitHub\BeyondNet.Samples.NetGraphQL\Grappql-api\Graphapi.Api\bin\Debug\net5.0\GraphQL.Server.Core.dll
+C:\Users\alberto.arroyo\Documents\GitHub\BeyondNet.Samples.NetGraphQL\Grappql-api\Graphapi.Api\bin\Debug\net5.0\GraphQL.Server.Transports.AspNetCore.dll
+C:\Users\alberto.arroyo\Documents\GitHub\BeyondNet.Samples.NetGraphQL\Grappql-api\Graphapi.Api\bin\Debug\net5.0\GraphQL.Server.Ui.Playground.dll
+C:\Users\alberto.arroyo\Documents\GitHub\BeyondNet.Samples.NetGraphQL\Grappql-api\Graphapi.Api\bin\Debug\net5.0\Microsoft.Data.Sqlite.dll
+C:\Users\alberto.arroyo\Documents\GitHub\BeyondNet.Samples.NetGraphQL\Grappql-api\Graphapi.Api\bin\Debug\net5.0\Microsoft.DotNet.PlatformAbstractions.dll
+C:\Users\alberto.arroyo\Documents\GitHub\BeyondNet.Samples.NetGraphQL\Grappql-api\Graphapi.Api\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.dll
+C:\Users\alberto.arroyo\Documents\GitHub\BeyondNet.Samples.NetGraphQL\Grappql-api\Graphapi.Api\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\alberto.arroyo\Documents\GitHub\BeyondNet.Samples.NetGraphQL\Grappql-api\Graphapi.Api\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\alberto.arroyo\Documents\GitHub\BeyondNet.Samples.NetGraphQL\Grappql-api\Graphapi.Api\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Sqlite.dll
+C:\Users\alberto.arroyo\Documents\GitHub\BeyondNet.Samples.NetGraphQL\Grappql-api\Graphapi.Api\bin\Debug\net5.0\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\alberto.arroyo\Documents\GitHub\BeyondNet.Samples.NetGraphQL\Grappql-api\Graphapi.Api\bin\Debug\net5.0\Microsoft.Extensions.DependencyModel.dll
+C:\Users\alberto.arroyo\Documents\GitHub\BeyondNet.Samples.NetGraphQL\Grappql-api\Graphapi.Api\bin\Debug\net5.0\Microsoft.OpenApi.dll
+C:\Users\alberto.arroyo\Documents\GitHub\BeyondNet.Samples.NetGraphQL\Grappql-api\Graphapi.Api\bin\Debug\net5.0\SQLitePCLRaw.batteries_v2.dll
+C:\Users\alberto.arroyo\Documents\GitHub\BeyondNet.Samples.NetGraphQL\Grappql-api\Graphapi.Api\bin\Debug\net5.0\SQLitePCLRaw.nativelibrary.dll
+C:\Users\alberto.arroyo\Documents\GitHub\BeyondNet.Samples.NetGraphQL\Grappql-api\Graphapi.Api\bin\Debug\net5.0\SQLitePCLRaw.core.dll
+C:\Users\alberto.arroyo\Documents\GitHub\BeyondNet.Samples.NetGraphQL\Grappql-api\Graphapi.Api\bin\Debug\net5.0\SQLitePCLRaw.provider.dynamic_cdecl.dll
+C:\Users\alberto.arroyo\Documents\GitHub\BeyondNet.Samples.NetGraphQL\Grappql-api\Graphapi.Api\bin\Debug\net5.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\alberto.arroyo\Documents\GitHub\BeyondNet.Samples.NetGraphQL\Grappql-api\Graphapi.Api\bin\Debug\net5.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\alberto.arroyo\Documents\GitHub\BeyondNet.Samples.NetGraphQL\Grappql-api\Graphapi.Api\bin\Debug\net5.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Users\alberto.arroyo\Documents\GitHub\BeyondNet.Samples.NetGraphQL\Grappql-api\Graphapi.Api\bin\Debug\net5.0\System.CodeDom.dll
+C:\Users\alberto.arroyo\Documents\GitHub\BeyondNet.Samples.NetGraphQL\Grappql-api\Graphapi.Api\bin\Debug\net5.0\System.Configuration.ConfigurationManager.dll
+C:\Users\alberto.arroyo\Documents\GitHub\BeyondNet.Samples.NetGraphQL\Grappql-api\Graphapi.Api\bin\Debug\net5.0\System.Data.SqlClient.dll
+C:\Users\alberto.arroyo\Documents\GitHub\BeyondNet.Samples.NetGraphQL\Grappql-api\Graphapi.Api\bin\Debug\net5.0\System.Diagnostics.DiagnosticSource.dll
+C:\Users\alberto.arroyo\Documents\GitHub\BeyondNet.Samples.NetGraphQL\Grappql-api\Graphapi.Api\bin\Debug\net5.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\alberto.arroyo\Documents\GitHub\BeyondNet.Samples.NetGraphQL\Grappql-api\Graphapi.Api\bin\Debug\net5.0\runtimes\win-arm64\native\sni.dll
+C:\Users\alberto.arroyo\Documents\GitHub\BeyondNet.Samples.NetGraphQL\Grappql-api\Graphapi.Api\bin\Debug\net5.0\runtimes\win-x64\native\sni.dll
+C:\Users\alberto.arroyo\Documents\GitHub\BeyondNet.Samples.NetGraphQL\Grappql-api\Graphapi.Api\bin\Debug\net5.0\runtimes\win-x86\native\sni.dll
+C:\Users\alberto.arroyo\Documents\GitHub\BeyondNet.Samples.NetGraphQL\Grappql-api\Graphapi.Api\bin\Debug\net5.0\runtimes\alpine-x64\native\libe_sqlite3.so
+C:\Users\alberto.arroyo\Documents\GitHub\BeyondNet.Samples.NetGraphQL\Grappql-api\Graphapi.Api\bin\Debug\net5.0\runtimes\linux-arm\native\libe_sqlite3.so
+C:\Users\alberto.arroyo\Documents\GitHub\BeyondNet.Samples.NetGraphQL\Grappql-api\Graphapi.Api\bin\Debug\net5.0\runtimes\linux-arm64\native\libe_sqlite3.so
+C:\Users\alberto.arroyo\Documents\GitHub\BeyondNet.Samples.NetGraphQL\Grappql-api\Graphapi.Api\bin\Debug\net5.0\runtimes\linux-armel\native\libe_sqlite3.so
+C:\Users\alberto.arroyo\Documents\GitHub\BeyondNet.Samples.NetGraphQL\Grappql-api\Graphapi.Api\bin\Debug\net5.0\runtimes\linux-mips64\native\libe_sqlite3.so
+C:\Users\alberto.arroyo\Documents\GitHub\BeyondNet.Samples.NetGraphQL\Grappql-api\Graphapi.Api\bin\Debug\net5.0\runtimes\linux-musl-x64\native\libe_sqlite3.so
+C:\Users\alberto.arroyo\Documents\GitHub\BeyondNet.Samples.NetGraphQL\Grappql-api\Graphapi.Api\bin\Debug\net5.0\runtimes\linux-x64\native\libe_sqlite3.so
+C:\Users\alberto.arroyo\Documents\GitHub\BeyondNet.Samples.NetGraphQL\Grappql-api\Graphapi.Api\bin\Debug\net5.0\runtimes\linux-x86\native\libe_sqlite3.so
+C:\Users\alberto.arroyo\Documents\GitHub\BeyondNet.Samples.NetGraphQL\Grappql-api\Graphapi.Api\bin\Debug\net5.0\runtimes\osx-x64\native\libe_sqlite3.dylib
+C:\Users\alberto.arroyo\Documents\GitHub\BeyondNet.Samples.NetGraphQL\Grappql-api\Graphapi.Api\bin\Debug\net5.0\runtimes\win-arm\native\e_sqlite3.dll
+C:\Users\alberto.arroyo\Documents\GitHub\BeyondNet.Samples.NetGraphQL\Grappql-api\Graphapi.Api\bin\Debug\net5.0\runtimes\win-arm64\native\e_sqlite3.dll
+C:\Users\alberto.arroyo\Documents\GitHub\BeyondNet.Samples.NetGraphQL\Grappql-api\Graphapi.Api\bin\Debug\net5.0\runtimes\win-x64\native\e_sqlite3.dll
+C:\Users\alberto.arroyo\Documents\GitHub\BeyondNet.Samples.NetGraphQL\Grappql-api\Graphapi.Api\bin\Debug\net5.0\runtimes\win-x86\native\e_sqlite3.dll
+C:\Users\alberto.arroyo\Documents\GitHub\BeyondNet.Samples.NetGraphQL\Grappql-api\Graphapi.Api\bin\Debug\net5.0\runtimes\unix\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\alberto.arroyo\Documents\GitHub\BeyondNet.Samples.NetGraphQL\Grappql-api\Graphapi.Api\bin\Debug\net5.0\runtimes\win\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\alberto.arroyo\Documents\GitHub\BeyondNet.Samples.NetGraphQL\Grappql-api\Graphapi.Api\bin\Debug\net5.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\alberto.arroyo\Documents\GitHub\BeyondNet.Samples.NetGraphQL\Grappql-api\Graphapi.Api\bin\Debug\net5.0\Graphapi.Data.dll
+C:\Users\alberto.arroyo\Documents\GitHub\BeyondNet.Samples.NetGraphQL\Grappql-api\Graphapi.Api\bin\Debug\net5.0\Graphapi.Data.pdb
+C:\Users\alberto.arroyo\Documents\GitHub\BeyondNet.Samples.NetGraphQL\Grappql-api\Graphapi.Api\obj\Debug\net5.0\Graphapi.Api.csproj.AssemblyReference.cache
+C:\Users\alberto.arroyo\Documents\GitHub\BeyondNet.Samples.NetGraphQL\Grappql-api\Graphapi.Api\obj\Debug\net5.0\Graphapi.Api.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\alberto.arroyo\Documents\GitHub\BeyondNet.Samples.NetGraphQL\Grappql-api\Graphapi.Api\obj\Debug\net5.0\Graphapi.Api.AssemblyInfoInputs.cache
+C:\Users\alberto.arroyo\Documents\GitHub\BeyondNet.Samples.NetGraphQL\Grappql-api\Graphapi.Api\obj\Debug\net5.0\Graphapi.Api.AssemblyInfo.cs
+C:\Users\alberto.arroyo\Documents\GitHub\BeyondNet.Samples.NetGraphQL\Grappql-api\Graphapi.Api\obj\Debug\net5.0\Graphapi.Api.csproj.CoreCompileInputs.cache
+C:\Users\alberto.arroyo\Documents\GitHub\BeyondNet.Samples.NetGraphQL\Grappql-api\Graphapi.Api\obj\Debug\net5.0\Graphapi.Api.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\alberto.arroyo\Documents\GitHub\BeyondNet.Samples.NetGraphQL\Grappql-api\Graphapi.Api\obj\Debug\net5.0\Graphapi.Api.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\alberto.arroyo\Documents\GitHub\BeyondNet.Samples.NetGraphQL\Grappql-api\Graphapi.Api\obj\Debug\net5.0\staticwebassets\Graphapi.Api.StaticWebAssets.Manifest.cache
+C:\Users\alberto.arroyo\Documents\GitHub\BeyondNet.Samples.NetGraphQL\Grappql-api\Graphapi.Api\obj\Debug\net5.0\staticwebassets\Graphapi.Api.StaticWebAssets.xml
+C:\Users\alberto.arroyo\Documents\GitHub\BeyondNet.Samples.NetGraphQL\Grappql-api\Graphapi.Api\obj\Debug\net5.0\scopedcss\bundle\Graphapi.Api.styles.css
+C:\Users\alberto.arroyo\Documents\GitHub\BeyondNet.Samples.NetGraphQL\Grappql-api\Graphapi.Api\obj\Debug\net5.0\Graphapi.Api.RazorTargetAssemblyInfo.cache
+C:\Users\alberto.arroyo\Documents\GitHub\BeyondNet.Samples.NetGraphQL\Grappql-api\Graphapi.Api\obj\Debug\net5.0\Graphapi.Api.dll
+C:\Users\alberto.arroyo\Documents\GitHub\BeyondNet.Samples.NetGraphQL\Grappql-api\Graphapi.Api\obj\Debug\net5.0\ref\Graphapi.Api.dll
+C:\Users\alberto.arroyo\Documents\GitHub\BeyondNet.Samples.NetGraphQL\Grappql-api\Graphapi.Api\obj\Debug\net5.0\Graphapi.Api.pdb
+C:\Users\alberto.arroyo\Documents\GitHub\BeyondNet.Samples.NetGraphQL\Grappql-api\Graphapi.Api\obj\Debug\net5.0\Graphapi.Api.genruntimeconfig.cache
+C:\Users\alberto.arroyo\Documents\GitHub\BeyondNet.Samples.NetGraphQL\Grappql-api\Graphapi.Api\bin\Debug\net5.0\Humanizer.dll
+C:\Users\alberto.arroyo\Documents\GitHub\BeyondNet.Samples.NetGraphQL\Grappql-api\Graphapi.Api\bin\Debug\net5.0\Microsoft.AspNetCore.Razor.Language.dll
+C:\Users\alberto.arroyo\Documents\GitHub\BeyondNet.Samples.NetGraphQL\Grappql-api\Graphapi.Api\bin\Debug\net5.0\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\alberto.arroyo\Documents\GitHub\BeyondNet.Samples.NetGraphQL\Grappql-api\Graphapi.Api\bin\Debug\net5.0\Microsoft.CodeAnalysis.dll
+C:\Users\alberto.arroyo\Documents\GitHub\BeyondNet.Samples.NetGraphQL\Grappql-api\Graphapi.Api\bin\Debug\net5.0\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\alberto.arroyo\Documents\GitHub\BeyondNet.Samples.NetGraphQL\Grappql-api\Graphapi.Api\bin\Debug\net5.0\Microsoft.CodeAnalysis.CSharp.Workspaces.dll
+C:\Users\alberto.arroyo\Documents\GitHub\BeyondNet.Samples.NetGraphQL\Grappql-api\Graphapi.Api\bin\Debug\net5.0\Microsoft.CodeAnalysis.Razor.dll
+C:\Users\alberto.arroyo\Documents\GitHub\BeyondNet.Samples.NetGraphQL\Grappql-api\Graphapi.Api\bin\Debug\net5.0\Microsoft.CodeAnalysis.Workspaces.dll
+C:\Users\alberto.arroyo\Documents\GitHub\BeyondNet.Samples.NetGraphQL\Grappql-api\Graphapi.Api\bin\Debug\net5.0\Microsoft.Data.SqlClient.dll
+C:\Users\alberto.arroyo\Documents\GitHub\BeyondNet.Samples.NetGraphQL\Grappql-api\Graphapi.Api\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Design.dll
+C:\Users\alberto.arroyo\Documents\GitHub\BeyondNet.Samples.NetGraphQL\Grappql-api\Graphapi.Api\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+C:\Users\alberto.arroyo\Documents\GitHub\BeyondNet.Samples.NetGraphQL\Grappql-api\Graphapi.Api\bin\Debug\net5.0\Microsoft.Identity.Client.dll
+C:\Users\alberto.arroyo\Documents\GitHub\BeyondNet.Samples.NetGraphQL\Grappql-api\Graphapi.Api\bin\Debug\net5.0\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\alberto.arroyo\Documents\GitHub\BeyondNet.Samples.NetGraphQL\Grappql-api\Graphapi.Api\bin\Debug\net5.0\Microsoft.IdentityModel.Logging.dll
+C:\Users\alberto.arroyo\Documents\GitHub\BeyondNet.Samples.NetGraphQL\Grappql-api\Graphapi.Api\bin\Debug\net5.0\Microsoft.IdentityModel.Protocols.dll
+C:\Users\alberto.arroyo\Documents\GitHub\BeyondNet.Samples.NetGraphQL\Grappql-api\Graphapi.Api\bin\Debug\net5.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\alberto.arroyo\Documents\GitHub\BeyondNet.Samples.NetGraphQL\Grappql-api\Graphapi.Api\bin\Debug\net5.0\Microsoft.IdentityModel.Tokens.dll
+C:\Users\alberto.arroyo\Documents\GitHub\BeyondNet.Samples.NetGraphQL\Grappql-api\Graphapi.Api\bin\Debug\net5.0\Microsoft.VisualStudio.Web.CodeGeneration.dll
+C:\Users\alberto.arroyo\Documents\GitHub\BeyondNet.Samples.NetGraphQL\Grappql-api\Graphapi.Api\bin\Debug\net5.0\Microsoft.VisualStudio.Web.CodeGeneration.Contracts.dll
+C:\Users\alberto.arroyo\Documents\GitHub\BeyondNet.Samples.NetGraphQL\Grappql-api\Graphapi.Api\bin\Debug\net5.0\Microsoft.VisualStudio.Web.CodeGeneration.Core.dll
+C:\Users\alberto.arroyo\Documents\GitHub\BeyondNet.Samples.NetGraphQL\Grappql-api\Graphapi.Api\bin\Debug\net5.0\dotnet-aspnet-codegenerator-design.dll
+C:\Users\alberto.arroyo\Documents\GitHub\BeyondNet.Samples.NetGraphQL\Grappql-api\Graphapi.Api\bin\Debug\net5.0\Microsoft.VisualStudio.Web.CodeGeneration.EntityFrameworkCore.dll
+C:\Users\alberto.arroyo\Documents\GitHub\BeyondNet.Samples.NetGraphQL\Grappql-api\Graphapi.Api\bin\Debug\net5.0\Microsoft.VisualStudio.Web.CodeGeneration.Templating.dll
+C:\Users\alberto.arroyo\Documents\GitHub\BeyondNet.Samples.NetGraphQL\Grappql-api\Graphapi.Api\bin\Debug\net5.0\Microsoft.VisualStudio.Web.CodeGeneration.Utils.dll
+C:\Users\alberto.arroyo\Documents\GitHub\BeyondNet.Samples.NetGraphQL\Grappql-api\Graphapi.Api\bin\Debug\net5.0\Microsoft.VisualStudio.Web.CodeGenerators.Mvc.dll
+C:\Users\alberto.arroyo\Documents\GitHub\BeyondNet.Samples.NetGraphQL\Grappql-api\Graphapi.Api\bin\Debug\net5.0\Newtonsoft.Json.dll
+C:\Users\alberto.arroyo\Documents\GitHub\BeyondNet.Samples.NetGraphQL\Grappql-api\Graphapi.Api\bin\Debug\net5.0\System.Composition.AttributedModel.dll
+C:\Users\alberto.arroyo\Documents\GitHub\BeyondNet.Samples.NetGraphQL\Grappql-api\Graphapi.Api\bin\Debug\net5.0\System.Composition.Convention.dll
+C:\Users\alberto.arroyo\Documents\GitHub\BeyondNet.Samples.NetGraphQL\Grappql-api\Graphapi.Api\bin\Debug\net5.0\System.Composition.Hosting.dll
+C:\Users\alberto.arroyo\Documents\GitHub\BeyondNet.Samples.NetGraphQL\Grappql-api\Graphapi.Api\bin\Debug\net5.0\System.Composition.Runtime.dll
+C:\Users\alberto.arroyo\Documents\GitHub\BeyondNet.Samples.NetGraphQL\Grappql-api\Graphapi.Api\bin\Debug\net5.0\System.Composition.TypedParts.dll
+C:\Users\alberto.arroyo\Documents\GitHub\BeyondNet.Samples.NetGraphQL\Grappql-api\Graphapi.Api\bin\Debug\net5.0\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\alberto.arroyo\Documents\GitHub\BeyondNet.Samples.NetGraphQL\Grappql-api\Graphapi.Api\bin\Debug\net5.0\System.Runtime.Caching.dll
+C:\Users\alberto.arroyo\Documents\GitHub\BeyondNet.Samples.NetGraphQL\Grappql-api\Graphapi.Api\bin\Debug\net5.0\cs\Microsoft.CodeAnalysis.resources.dll
+C:\Users\alberto.arroyo\Documents\GitHub\BeyondNet.Samples.NetGraphQL\Grappql-api\Graphapi.Api\bin\Debug\net5.0\de\Microsoft.CodeAnalysis.resources.dll
+C:\Users\alberto.arroyo\Documents\GitHub\BeyondNet.Samples.NetGraphQL\Grappql-api\Graphapi.Api\bin\Debug\net5.0\es\Microsoft.CodeAnalysis.resources.dll
+C:\Users\alberto.arroyo\Documents\GitHub\BeyondNet.Samples.NetGraphQL\Grappql-api\Graphapi.Api\bin\Debug\net5.0\fr\Microsoft.CodeAnalysis.resources.dll
+C:\Users\alberto.arroyo\Documents\GitHub\BeyondNet.Samples.NetGraphQL\Grappql-api\Graphapi.Api\bin\Debug\net5.0\it\Microsoft.CodeAnalysis.resources.dll
+C:\Users\alberto.arroyo\Documents\GitHub\BeyondNet.Samples.NetGraphQL\Grappql-api\Graphapi.Api\bin\Debug\net5.0\ja\Microsoft.CodeAnalysis.resources.dll
+C:\Users\alberto.arroyo\Documents\GitHub\BeyondNet.Samples.NetGraphQL\Grappql-api\Graphapi.Api\bin\Debug\net5.0\ko\Microsoft.CodeAnalysis.resources.dll
+C:\Users\alberto.arroyo\Documents\GitHub\BeyondNet.Samples.NetGraphQL\Grappql-api\Graphapi.Api\bin\Debug\net5.0\pl\Microsoft.CodeAnalysis.resources.dll
+C:\Users\alberto.arroyo\Documents\GitHub\BeyondNet.Samples.NetGraphQL\Grappql-api\Graphapi.Api\bin\Debug\net5.0\pt-BR\Microsoft.CodeAnalysis.resources.dll
+C:\Users\alberto.arroyo\Documents\GitHub\BeyondNet.Samples.NetGraphQL\Grappql-api\Graphapi.Api\bin\Debug\net5.0\ru\Microsoft.CodeAnalysis.resources.dll
+C:\Users\alberto.arroyo\Documents\GitHub\BeyondNet.Samples.NetGraphQL\Grappql-api\Graphapi.Api\bin\Debug\net5.0\tr\Microsoft.CodeAnalysis.resources.dll
+C:\Users\alberto.arroyo\Documents\GitHub\BeyondNet.Samples.NetGraphQL\Grappql-api\Graphapi.Api\bin\Debug\net5.0\zh-Hans\Microsoft.CodeAnalysis.resources.dll
+C:\Users\alberto.arroyo\Documents\GitHub\BeyondNet.Samples.NetGraphQL\Grappql-api\Graphapi.Api\bin\Debug\net5.0\zh-Hant\Microsoft.CodeAnalysis.resources.dll
+C:\Users\alberto.arroyo\Documents\GitHub\BeyondNet.Samples.NetGraphQL\Grappql-api\Graphapi.Api\bin\Debug\net5.0\cs\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\alberto.arroyo\Documents\GitHub\BeyondNet.Samples.NetGraphQL\Grappql-api\Graphapi.Api\bin\Debug\net5.0\de\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\alberto.arroyo\Documents\GitHub\BeyondNet.Samples.NetGraphQL\Grappql-api\Graphapi.Api\bin\Debug\net5.0\es\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\alberto.arroyo\Documents\GitHub\BeyondNet.Samples.NetGraphQL\Grappql-api\Graphapi.Api\bin\Debug\net5.0\fr\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\alberto.arroyo\Documents\GitHub\BeyondNet.Samples.NetGraphQL\Grappql-api\Graphapi.Api\bin\Debug\net5.0\it\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\alberto.arroyo\Documents\GitHub\BeyondNet.Samples.NetGraphQL\Grappql-api\Graphapi.Api\bin\Debug\net5.0\ja\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\alberto.arroyo\Documents\GitHub\BeyondNet.Samples.NetGraphQL\Grappql-api\Graphapi.Api\bin\Debug\net5.0\ko\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\alberto.arroyo\Documents\GitHub\BeyondNet.Samples.NetGraphQL\Grappql-api\Graphapi.Api\bin\Debug\net5.0\pl\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\alberto.arroyo\Documents\GitHub\BeyondNet.Samples.NetGraphQL\Grappql-api\Graphapi.Api\bin\Debug\net5.0\pt-BR\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\alberto.arroyo\Documents\GitHub\BeyondNet.Samples.NetGraphQL\Grappql-api\Graphapi.Api\bin\Debug\net5.0\ru\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\alberto.arroyo\Documents\GitHub\BeyondNet.Samples.NetGraphQL\Grappql-api\Graphapi.Api\bin\Debug\net5.0\tr\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\alberto.arroyo\Documents\GitHub\BeyondNet.Samples.NetGraphQL\Grappql-api\Graphapi.Api\bin\Debug\net5.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\alberto.arroyo\Documents\GitHub\BeyondNet.Samples.NetGraphQL\Grappql-api\Graphapi.Api\bin\Debug\net5.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\alberto.arroyo\Documents\GitHub\BeyondNet.Samples.NetGraphQL\Grappql-api\Graphapi.Api\bin\Debug\net5.0\cs\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\alberto.arroyo\Documents\GitHub\BeyondNet.Samples.NetGraphQL\Grappql-api\Graphapi.Api\bin\Debug\net5.0\de\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\alberto.arroyo\Documents\GitHub\BeyondNet.Samples.NetGraphQL\Grappql-api\Graphapi.Api\bin\Debug\net5.0\es\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\alberto.arroyo\Documents\GitHub\BeyondNet.Samples.NetGraphQL\Grappql-api\Graphapi.Api\bin\Debug\net5.0\fr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\alberto.arroyo\Documents\GitHub\BeyondNet.Samples.NetGraphQL\Grappql-api\Graphapi.Api\bin\Debug\net5.0\it\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\alberto.arroyo\Documents\GitHub\BeyondNet.Samples.NetGraphQL\Grappql-api\Graphapi.Api\bin\Debug\net5.0\ja\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\alberto.arroyo\Documents\GitHub\BeyondNet.Samples.NetGraphQL\Grappql-api\Graphapi.Api\bin\Debug\net5.0\ko\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\alberto.arroyo\Documents\GitHub\BeyondNet.Samples.NetGraphQL\Grappql-api\Graphapi.Api\bin\Debug\net5.0\pl\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\alberto.arroyo\Documents\GitHub\BeyondNet.Samples.NetGraphQL\Grappql-api\Graphapi.Api\bin\Debug\net5.0\pt-BR\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\alberto.arroyo\Documents\GitHub\BeyondNet.Samples.NetGraphQL\Grappql-api\Graphapi.Api\bin\Debug\net5.0\ru\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\alberto.arroyo\Documents\GitHub\BeyondNet.Samples.NetGraphQL\Grappql-api\Graphapi.Api\bin\Debug\net5.0\tr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\alberto.arroyo\Documents\GitHub\BeyondNet.Samples.NetGraphQL\Grappql-api\Graphapi.Api\bin\Debug\net5.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\alberto.arroyo\Documents\GitHub\BeyondNet.Samples.NetGraphQL\Grappql-api\Graphapi.Api\bin\Debug\net5.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\alberto.arroyo\Documents\GitHub\BeyondNet.Samples.NetGraphQL\Grappql-api\Graphapi.Api\bin\Debug\net5.0\cs\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\alberto.arroyo\Documents\GitHub\BeyondNet.Samples.NetGraphQL\Grappql-api\Graphapi.Api\bin\Debug\net5.0\de\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\alberto.arroyo\Documents\GitHub\BeyondNet.Samples.NetGraphQL\Grappql-api\Graphapi.Api\bin\Debug\net5.0\es\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\alberto.arroyo\Documents\GitHub\BeyondNet.Samples.NetGraphQL\Grappql-api\Graphapi.Api\bin\Debug\net5.0\fr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\alberto.arroyo\Documents\GitHub\BeyondNet.Samples.NetGraphQL\Grappql-api\Graphapi.Api\bin\Debug\net5.0\it\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\alberto.arroyo\Documents\GitHub\BeyondNet.Samples.NetGraphQL\Grappql-api\Graphapi.Api\bin\Debug\net5.0\ja\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\alberto.arroyo\Documents\GitHub\BeyondNet.Samples.NetGraphQL\Grappql-api\Graphapi.Api\bin\Debug\net5.0\ko\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\alberto.arroyo\Documents\GitHub\BeyondNet.Samples.NetGraphQL\Grappql-api\Graphapi.Api\bin\Debug\net5.0\pl\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\alberto.arroyo\Documents\GitHub\BeyondNet.Samples.NetGraphQL\Grappql-api\Graphapi.Api\bin\Debug\net5.0\pt-BR\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\alberto.arroyo\Documents\GitHub\BeyondNet.Samples.NetGraphQL\Grappql-api\Graphapi.Api\bin\Debug\net5.0\ru\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\alberto.arroyo\Documents\GitHub\BeyondNet.Samples.NetGraphQL\Grappql-api\Graphapi.Api\bin\Debug\net5.0\tr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\alberto.arroyo\Documents\GitHub\BeyondNet.Samples.NetGraphQL\Grappql-api\Graphapi.Api\bin\Debug\net5.0\zh-Hans\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\alberto.arroyo\Documents\GitHub\BeyondNet.Samples.NetGraphQL\Grappql-api\Graphapi.Api\bin\Debug\net5.0\zh-Hant\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\alberto.arroyo\Documents\GitHub\BeyondNet.Samples.NetGraphQL\Grappql-api\Graphapi.Api\bin\Debug\net5.0\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\alberto.arroyo\Documents\GitHub\BeyondNet.Samples.NetGraphQL\Grappql-api\Graphapi.Api\bin\Debug\net5.0\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\alberto.arroyo\Documents\GitHub\BeyondNet.Samples.NetGraphQL\Grappql-api\Graphapi.Api\bin\Debug\net5.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\alberto.arroyo\Documents\GitHub\BeyondNet.Samples.NetGraphQL\Grappql-api\Graphapi.Api\bin\Debug\net5.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\Users\alberto.arroyo\Documents\GitHub\BeyondNet.Samples.NetGraphQL\Grappql-api\Graphapi.Api\bin\Debug\net5.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\alberto.arroyo\Documents\GitHub\BeyondNet.Samples.NetGraphQL\Grappql-api\Graphapi.Api\bin\Debug\net5.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\Users\alberto.arroyo\Documents\GitHub\BeyondNet.Samples.NetGraphQL\Grappql-api\Graphapi.Api\bin\Debug\net5.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\alberto.arroyo\Documents\GitHub\BeyondNet.Samples.NetGraphQL\Grappql-api\Graphapi.Api\bin\Debug\net5.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\Users\alberto.arroyo\Documents\GitHub\BeyondNet.Samples.NetGraphQL\Grappql-api\Graphapi.Api\bin\Debug\net5.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\alberto.arroyo\Documents\GitHub\BeyondNet.Samples.NetGraphQL\Grappql-api\Graphapi.Api\bin\Debug\net5.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\Users\alberto.arroyo\Documents\GitHub\BeyondNet.Samples.NetGraphQL\Grappql-api\Graphapi.Api\bin\Debug\net5.0\runtimes\win-arm\lib\net5.0\dotnet-aspnet-codegenerator-design.exe
+C:\Users\alberto.arroyo\Documents\GitHub\BeyondNet.Samples.NetGraphQL\Grappql-api\Graphapi.Api\bin\Debug\net5.0\runtimes\win-arm64\lib\net5.0\dotnet-aspnet-codegenerator-design.exe
+C:\Users\alberto.arroyo\Documents\GitHub\BeyondNet.Samples.NetGraphQL\Grappql-api\Graphapi.Api\bin\Debug\net5.0\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+D:\1. beto\1.3. mycode\Samples\BeyondNet.Samples.NetGraphQL\Grappql-api\Graphapi.Api\bin\Debug\net5.0\appsettings.Development.json
+D:\1. beto\1.3. mycode\Samples\BeyondNet.Samples.NetGraphQL\Grappql-api\Graphapi.Api\bin\Debug\net5.0\appsettings.json
+D:\1. beto\1.3. mycode\Samples\BeyondNet.Samples.NetGraphQL\Grappql-api\Graphapi.Api\bin\Debug\net5.0\Graphapi.Api.exe
+D:\1. beto\1.3. mycode\Samples\BeyondNet.Samples.NetGraphQL\Grappql-api\Graphapi.Api\bin\Debug\net5.0\Graphapi.Api.deps.json
+D:\1. beto\1.3. mycode\Samples\BeyondNet.Samples.NetGraphQL\Grappql-api\Graphapi.Api\bin\Debug\net5.0\Graphapi.Api.runtimeconfig.json
+D:\1. beto\1.3. mycode\Samples\BeyondNet.Samples.NetGraphQL\Grappql-api\Graphapi.Api\bin\Debug\net5.0\Graphapi.Api.runtimeconfig.dev.json
+D:\1. beto\1.3. mycode\Samples\BeyondNet.Samples.NetGraphQL\Grappql-api\Graphapi.Api\bin\Debug\net5.0\Graphapi.Api.dll
+D:\1. beto\1.3. mycode\Samples\BeyondNet.Samples.NetGraphQL\Grappql-api\Graphapi.Api\bin\Debug\net5.0\ref\Graphapi.Api.dll
+D:\1. beto\1.3. mycode\Samples\BeyondNet.Samples.NetGraphQL\Grappql-api\Graphapi.Api\bin\Debug\net5.0\Graphapi.Api.pdb
+D:\1. beto\1.3. mycode\Samples\BeyondNet.Samples.NetGraphQL\Grappql-api\Graphapi.Api\bin\Debug\net5.0\EntityFramework.SqlServer.dll
+D:\1. beto\1.3. mycode\Samples\BeyondNet.Samples.NetGraphQL\Grappql-api\Graphapi.Api\bin\Debug\net5.0\EntityFramework.dll
+D:\1. beto\1.3. mycode\Samples\BeyondNet.Samples.NetGraphQL\Grappql-api\Graphapi.Api\bin\Debug\net5.0\GraphQL.dll
+D:\1. beto\1.3. mycode\Samples\BeyondNet.Samples.NetGraphQL\Grappql-api\Graphapi.Api\bin\Debug\net5.0\GraphQL-Parser.dll
+D:\1. beto\1.3. mycode\Samples\BeyondNet.Samples.NetGraphQL\Grappql-api\Graphapi.Api\bin\Debug\net5.0\GraphQL.DataLoader.dll
+D:\1. beto\1.3. mycode\Samples\BeyondNet.Samples.NetGraphQL\Grappql-api\Graphapi.Api\bin\Debug\net5.0\GraphQL.NewtonsoftJson.dll
+D:\1. beto\1.3. mycode\Samples\BeyondNet.Samples.NetGraphQL\Grappql-api\Graphapi.Api\bin\Debug\net5.0\GraphQL.Server.Core.dll
+D:\1. beto\1.3. mycode\Samples\BeyondNet.Samples.NetGraphQL\Grappql-api\Graphapi.Api\bin\Debug\net5.0\GraphQL.Server.Transports.AspNetCore.dll
+D:\1. beto\1.3. mycode\Samples\BeyondNet.Samples.NetGraphQL\Grappql-api\Graphapi.Api\bin\Debug\net5.0\GraphQL.Server.Transports.AspNetCore.SystemTextJson.dll
+D:\1. beto\1.3. mycode\Samples\BeyondNet.Samples.NetGraphQL\Grappql-api\Graphapi.Api\bin\Debug\net5.0\GraphQL.Server.Transports.Subscriptions.Abstractions.dll
+D:\1. beto\1.3. mycode\Samples\BeyondNet.Samples.NetGraphQL\Grappql-api\Graphapi.Api\bin\Debug\net5.0\GraphQL.Server.Ui.Playground.dll
+D:\1. beto\1.3. mycode\Samples\BeyondNet.Samples.NetGraphQL\Grappql-api\Graphapi.Api\bin\Debug\net5.0\GraphQL.SystemReactive.dll
+D:\1. beto\1.3. mycode\Samples\BeyondNet.Samples.NetGraphQL\Grappql-api\Graphapi.Api\bin\Debug\net5.0\GraphQL.SystemTextJson.dll
+D:\1. beto\1.3. mycode\Samples\BeyondNet.Samples.NetGraphQL\Grappql-api\Graphapi.Api\bin\Debug\net5.0\Humanizer.dll
+D:\1. beto\1.3. mycode\Samples\BeyondNet.Samples.NetGraphQL\Grappql-api\Graphapi.Api\bin\Debug\net5.0\Microsoft.AspNetCore.Razor.Language.dll
+D:\1. beto\1.3. mycode\Samples\BeyondNet.Samples.NetGraphQL\Grappql-api\Graphapi.Api\bin\Debug\net5.0\Microsoft.Bcl.AsyncInterfaces.dll
+D:\1. beto\1.3. mycode\Samples\BeyondNet.Samples.NetGraphQL\Grappql-api\Graphapi.Api\bin\Debug\net5.0\Microsoft.CodeAnalysis.dll
+D:\1. beto\1.3. mycode\Samples\BeyondNet.Samples.NetGraphQL\Grappql-api\Graphapi.Api\bin\Debug\net5.0\Microsoft.CodeAnalysis.CSharp.dll
+D:\1. beto\1.3. mycode\Samples\BeyondNet.Samples.NetGraphQL\Grappql-api\Graphapi.Api\bin\Debug\net5.0\Microsoft.CodeAnalysis.CSharp.Workspaces.dll
+D:\1. beto\1.3. mycode\Samples\BeyondNet.Samples.NetGraphQL\Grappql-api\Graphapi.Api\bin\Debug\net5.0\Microsoft.CodeAnalysis.Razor.dll
+D:\1. beto\1.3. mycode\Samples\BeyondNet.Samples.NetGraphQL\Grappql-api\Graphapi.Api\bin\Debug\net5.0\Microsoft.CodeAnalysis.Workspaces.dll
+D:\1. beto\1.3. mycode\Samples\BeyondNet.Samples.NetGraphQL\Grappql-api\Graphapi.Api\bin\Debug\net5.0\Microsoft.Data.SqlClient.dll
+D:\1. beto\1.3. mycode\Samples\BeyondNet.Samples.NetGraphQL\Grappql-api\Graphapi.Api\bin\Debug\net5.0\Microsoft.Data.Sqlite.dll
+D:\1. beto\1.3. mycode\Samples\BeyondNet.Samples.NetGraphQL\Grappql-api\Graphapi.Api\bin\Debug\net5.0\Microsoft.DotNet.PlatformAbstractions.dll
+D:\1. beto\1.3. mycode\Samples\BeyondNet.Samples.NetGraphQL\Grappql-api\Graphapi.Api\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.dll
+D:\1. beto\1.3. mycode\Samples\BeyondNet.Samples.NetGraphQL\Grappql-api\Graphapi.Api\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+D:\1. beto\1.3. mycode\Samples\BeyondNet.Samples.NetGraphQL\Grappql-api\Graphapi.Api\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Design.dll
+D:\1. beto\1.3. mycode\Samples\BeyondNet.Samples.NetGraphQL\Grappql-api\Graphapi.Api\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Relational.dll
+D:\1. beto\1.3. mycode\Samples\BeyondNet.Samples.NetGraphQL\Grappql-api\Graphapi.Api\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Sqlite.dll
+D:\1. beto\1.3. mycode\Samples\BeyondNet.Samples.NetGraphQL\Grappql-api\Graphapi.Api\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+D:\1. beto\1.3. mycode\Samples\BeyondNet.Samples.NetGraphQL\Grappql-api\Graphapi.Api\bin\Debug\net5.0\Microsoft.Extensions.DependencyInjection.dll
+D:\1. beto\1.3. mycode\Samples\BeyondNet.Samples.NetGraphQL\Grappql-api\Graphapi.Api\bin\Debug\net5.0\Microsoft.Extensions.DependencyModel.dll
+D:\1. beto\1.3. mycode\Samples\BeyondNet.Samples.NetGraphQL\Grappql-api\Graphapi.Api\bin\Debug\net5.0\Microsoft.Identity.Client.dll
+D:\1. beto\1.3. mycode\Samples\BeyondNet.Samples.NetGraphQL\Grappql-api\Graphapi.Api\bin\Debug\net5.0\Microsoft.IdentityModel.JsonWebTokens.dll
+D:\1. beto\1.3. mycode\Samples\BeyondNet.Samples.NetGraphQL\Grappql-api\Graphapi.Api\bin\Debug\net5.0\Microsoft.IdentityModel.Logging.dll
+D:\1. beto\1.3. mycode\Samples\BeyondNet.Samples.NetGraphQL\Grappql-api\Graphapi.Api\bin\Debug\net5.0\Microsoft.IdentityModel.Protocols.dll
+D:\1. beto\1.3. mycode\Samples\BeyondNet.Samples.NetGraphQL\Grappql-api\Graphapi.Api\bin\Debug\net5.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+D:\1. beto\1.3. mycode\Samples\BeyondNet.Samples.NetGraphQL\Grappql-api\Graphapi.Api\bin\Debug\net5.0\Microsoft.IdentityModel.Tokens.dll
+D:\1. beto\1.3. mycode\Samples\BeyondNet.Samples.NetGraphQL\Grappql-api\Graphapi.Api\bin\Debug\net5.0\Microsoft.OpenApi.dll
+D:\1. beto\1.3. mycode\Samples\BeyondNet.Samples.NetGraphQL\Grappql-api\Graphapi.Api\bin\Debug\net5.0\Microsoft.VisualStudio.Web.CodeGeneration.dll
+D:\1. beto\1.3. mycode\Samples\BeyondNet.Samples.NetGraphQL\Grappql-api\Graphapi.Api\bin\Debug\net5.0\Microsoft.VisualStudio.Web.CodeGeneration.Contracts.dll
+D:\1. beto\1.3. mycode\Samples\BeyondNet.Samples.NetGraphQL\Grappql-api\Graphapi.Api\bin\Debug\net5.0\Microsoft.VisualStudio.Web.CodeGeneration.Core.dll
+D:\1. beto\1.3. mycode\Samples\BeyondNet.Samples.NetGraphQL\Grappql-api\Graphapi.Api\bin\Debug\net5.0\dotnet-aspnet-codegenerator-design.dll
+D:\1. beto\1.3. mycode\Samples\BeyondNet.Samples.NetGraphQL\Grappql-api\Graphapi.Api\bin\Debug\net5.0\Microsoft.VisualStudio.Web.CodeGeneration.EntityFrameworkCore.dll
+D:\1. beto\1.3. mycode\Samples\BeyondNet.Samples.NetGraphQL\Grappql-api\Graphapi.Api\bin\Debug\net5.0\Microsoft.VisualStudio.Web.CodeGeneration.Templating.dll
+D:\1. beto\1.3. mycode\Samples\BeyondNet.Samples.NetGraphQL\Grappql-api\Graphapi.Api\bin\Debug\net5.0\Microsoft.VisualStudio.Web.CodeGeneration.Utils.dll
+D:\1. beto\1.3. mycode\Samples\BeyondNet.Samples.NetGraphQL\Grappql-api\Graphapi.Api\bin\Debug\net5.0\Microsoft.VisualStudio.Web.CodeGenerators.Mvc.dll
+D:\1. beto\1.3. mycode\Samples\BeyondNet.Samples.NetGraphQL\Grappql-api\Graphapi.Api\bin\Debug\net5.0\Newtonsoft.Json.dll
+D:\1. beto\1.3. mycode\Samples\BeyondNet.Samples.NetGraphQL\Grappql-api\Graphapi.Api\bin\Debug\net5.0\SQLitePCLRaw.batteries_v2.dll
+D:\1. beto\1.3. mycode\Samples\BeyondNet.Samples.NetGraphQL\Grappql-api\Graphapi.Api\bin\Debug\net5.0\SQLitePCLRaw.nativelibrary.dll
+D:\1. beto\1.3. mycode\Samples\BeyondNet.Samples.NetGraphQL\Grappql-api\Graphapi.Api\bin\Debug\net5.0\SQLitePCLRaw.core.dll
+D:\1. beto\1.3. mycode\Samples\BeyondNet.Samples.NetGraphQL\Grappql-api\Graphapi.Api\bin\Debug\net5.0\SQLitePCLRaw.provider.dynamic_cdecl.dll
+D:\1. beto\1.3. mycode\Samples\BeyondNet.Samples.NetGraphQL\Grappql-api\Graphapi.Api\bin\Debug\net5.0\Swashbuckle.AspNetCore.Swagger.dll
+D:\1. beto\1.3. mycode\Samples\BeyondNet.Samples.NetGraphQL\Grappql-api\Graphapi.Api\bin\Debug\net5.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+D:\1. beto\1.3. mycode\Samples\BeyondNet.Samples.NetGraphQL\Grappql-api\Graphapi.Api\bin\Debug\net5.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+D:\1. beto\1.3. mycode\Samples\BeyondNet.Samples.NetGraphQL\Grappql-api\Graphapi.Api\bin\Debug\net5.0\System.CodeDom.dll
+D:\1. beto\1.3. mycode\Samples\BeyondNet.Samples.NetGraphQL\Grappql-api\Graphapi.Api\bin\Debug\net5.0\System.Composition.AttributedModel.dll
+D:\1. beto\1.3. mycode\Samples\BeyondNet.Samples.NetGraphQL\Grappql-api\Graphapi.Api\bin\Debug\net5.0\System.Composition.Convention.dll
+D:\1. beto\1.3. mycode\Samples\BeyondNet.Samples.NetGraphQL\Grappql-api\Graphapi.Api\bin\Debug\net5.0\System.Composition.Hosting.dll
+D:\1. beto\1.3. mycode\Samples\BeyondNet.Samples.NetGraphQL\Grappql-api\Graphapi.Api\bin\Debug\net5.0\System.Composition.Runtime.dll
+D:\1. beto\1.3. mycode\Samples\BeyondNet.Samples.NetGraphQL\Grappql-api\Graphapi.Api\bin\Debug\net5.0\System.Composition.TypedParts.dll
+D:\1. beto\1.3. mycode\Samples\BeyondNet.Samples.NetGraphQL\Grappql-api\Graphapi.Api\bin\Debug\net5.0\System.Configuration.ConfigurationManager.dll
+D:\1. beto\1.3. mycode\Samples\BeyondNet.Samples.NetGraphQL\Grappql-api\Graphapi.Api\bin\Debug\net5.0\System.Data.SqlClient.dll
+D:\1. beto\1.3. mycode\Samples\BeyondNet.Samples.NetGraphQL\Grappql-api\Graphapi.Api\bin\Debug\net5.0\System.Diagnostics.DiagnosticSource.dll
+D:\1. beto\1.3. mycode\Samples\BeyondNet.Samples.NetGraphQL\Grappql-api\Graphapi.Api\bin\Debug\net5.0\System.IdentityModel.Tokens.Jwt.dll
+D:\1. beto\1.3. mycode\Samples\BeyondNet.Samples.NetGraphQL\Grappql-api\Graphapi.Api\bin\Debug\net5.0\System.IO.Pipelines.dll
+D:\1. beto\1.3. mycode\Samples\BeyondNet.Samples.NetGraphQL\Grappql-api\Graphapi.Api\bin\Debug\net5.0\System.Reactive.Core.dll
+D:\1. beto\1.3. mycode\Samples\BeyondNet.Samples.NetGraphQL\Grappql-api\Graphapi.Api\bin\Debug\net5.0\System.Reactive.Linq.dll
+D:\1. beto\1.3. mycode\Samples\BeyondNet.Samples.NetGraphQL\Grappql-api\Graphapi.Api\bin\Debug\net5.0\System.Runtime.Caching.dll
+D:\1. beto\1.3. mycode\Samples\BeyondNet.Samples.NetGraphQL\Grappql-api\Graphapi.Api\bin\Debug\net5.0\System.Security.Cryptography.ProtectedData.dll
+D:\1. beto\1.3. mycode\Samples\BeyondNet.Samples.NetGraphQL\Grappql-api\Graphapi.Api\bin\Debug\net5.0\cs\Microsoft.CodeAnalysis.resources.dll
+D:\1. beto\1.3. mycode\Samples\BeyondNet.Samples.NetGraphQL\Grappql-api\Graphapi.Api\bin\Debug\net5.0\de\Microsoft.CodeAnalysis.resources.dll
+D:\1. beto\1.3. mycode\Samples\BeyondNet.Samples.NetGraphQL\Grappql-api\Graphapi.Api\bin\Debug\net5.0\es\Microsoft.CodeAnalysis.resources.dll
+D:\1. beto\1.3. mycode\Samples\BeyondNet.Samples.NetGraphQL\Grappql-api\Graphapi.Api\bin\Debug\net5.0\fr\Microsoft.CodeAnalysis.resources.dll
+D:\1. beto\1.3. mycode\Samples\BeyondNet.Samples.NetGraphQL\Grappql-api\Graphapi.Api\bin\Debug\net5.0\it\Microsoft.CodeAnalysis.resources.dll
+D:\1. beto\1.3. mycode\Samples\BeyondNet.Samples.NetGraphQL\Grappql-api\Graphapi.Api\bin\Debug\net5.0\ja\Microsoft.CodeAnalysis.resources.dll
+D:\1. beto\1.3. mycode\Samples\BeyondNet.Samples.NetGraphQL\Grappql-api\Graphapi.Api\bin\Debug\net5.0\ko\Microsoft.CodeAnalysis.resources.dll
+D:\1. beto\1.3. mycode\Samples\BeyondNet.Samples.NetGraphQL\Grappql-api\Graphapi.Api\bin\Debug\net5.0\pl\Microsoft.CodeAnalysis.resources.dll
+D:\1. beto\1.3. mycode\Samples\BeyondNet.Samples.NetGraphQL\Grappql-api\Graphapi.Api\bin\Debug\net5.0\pt-BR\Microsoft.CodeAnalysis.resources.dll
+D:\1. beto\1.3. mycode\Samples\BeyondNet.Samples.NetGraphQL\Grappql-api\Graphapi.Api\bin\Debug\net5.0\ru\Microsoft.CodeAnalysis.resources.dll
+D:\1. beto\1.3. mycode\Samples\BeyondNet.Samples.NetGraphQL\Grappql-api\Graphapi.Api\bin\Debug\net5.0\tr\Microsoft.CodeAnalysis.resources.dll
+D:\1. beto\1.3. mycode\Samples\BeyondNet.Samples.NetGraphQL\Grappql-api\Graphapi.Api\bin\Debug\net5.0\zh-Hans\Microsoft.CodeAnalysis.resources.dll
+D:\1. beto\1.3. mycode\Samples\BeyondNet.Samples.NetGraphQL\Grappql-api\Graphapi.Api\bin\Debug\net5.0\zh-Hant\Microsoft.CodeAnalysis.resources.dll
+D:\1. beto\1.3. mycode\Samples\BeyondNet.Samples.NetGraphQL\Grappql-api\Graphapi.Api\bin\Debug\net5.0\cs\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\1. beto\1.3. mycode\Samples\BeyondNet.Samples.NetGraphQL\Grappql-api\Graphapi.Api\bin\Debug\net5.0\de\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\1. beto\1.3. mycode\Samples\BeyondNet.Samples.NetGraphQL\Grappql-api\Graphapi.Api\bin\Debug\net5.0\es\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\1. beto\1.3. mycode\Samples\BeyondNet.Samples.NetGraphQL\Grappql-api\Graphapi.Api\bin\Debug\net5.0\fr\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\1. beto\1.3. mycode\Samples\BeyondNet.Samples.NetGraphQL\Grappql-api\Graphapi.Api\bin\Debug\net5.0\it\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\1. beto\1.3. mycode\Samples\BeyondNet.Samples.NetGraphQL\Grappql-api\Graphapi.Api\bin\Debug\net5.0\ja\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\1. beto\1.3. mycode\Samples\BeyondNet.Samples.NetGraphQL\Grappql-api\Graphapi.Api\bin\Debug\net5.0\ko\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\1. beto\1.3. mycode\Samples\BeyondNet.Samples.NetGraphQL\Grappql-api\Graphapi.Api\bin\Debug\net5.0\pl\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\1. beto\1.3. mycode\Samples\BeyondNet.Samples.NetGraphQL\Grappql-api\Graphapi.Api\bin\Debug\net5.0\pt-BR\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\1. beto\1.3. mycode\Samples\BeyondNet.Samples.NetGraphQL\Grappql-api\Graphapi.Api\bin\Debug\net5.0\ru\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\1. beto\1.3. mycode\Samples\BeyondNet.Samples.NetGraphQL\Grappql-api\Graphapi.Api\bin\Debug\net5.0\tr\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\1. beto\1.3. mycode\Samples\BeyondNet.Samples.NetGraphQL\Grappql-api\Graphapi.Api\bin\Debug\net5.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\1. beto\1.3. mycode\Samples\BeyondNet.Samples.NetGraphQL\Grappql-api\Graphapi.Api\bin\Debug\net5.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\1. beto\1.3. mycode\Samples\BeyondNet.Samples.NetGraphQL\Grappql-api\Graphapi.Api\bin\Debug\net5.0\cs\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\1. beto\1.3. mycode\Samples\BeyondNet.Samples.NetGraphQL\Grappql-api\Graphapi.Api\bin\Debug\net5.0\de\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\1. beto\1.3. mycode\Samples\BeyondNet.Samples.NetGraphQL\Grappql-api\Graphapi.Api\bin\Debug\net5.0\es\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\1. beto\1.3. mycode\Samples\BeyondNet.Samples.NetGraphQL\Grappql-api\Graphapi.Api\bin\Debug\net5.0\fr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\1. beto\1.3. mycode\Samples\BeyondNet.Samples.NetGraphQL\Grappql-api\Graphapi.Api\bin\Debug\net5.0\it\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\1. beto\1.3. mycode\Samples\BeyondNet.Samples.NetGraphQL\Grappql-api\Graphapi.Api\bin\Debug\net5.0\ja\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\1. beto\1.3. mycode\Samples\BeyondNet.Samples.NetGraphQL\Grappql-api\Graphapi.Api\bin\Debug\net5.0\ko\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\1. beto\1.3. mycode\Samples\BeyondNet.Samples.NetGraphQL\Grappql-api\Graphapi.Api\bin\Debug\net5.0\pl\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\1. beto\1.3. mycode\Samples\BeyondNet.Samples.NetGraphQL\Grappql-api\Graphapi.Api\bin\Debug\net5.0\pt-BR\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\1. beto\1.3. mycode\Samples\BeyondNet.Samples.NetGraphQL\Grappql-api\Graphapi.Api\bin\Debug\net5.0\ru\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\1. beto\1.3. mycode\Samples\BeyondNet.Samples.NetGraphQL\Grappql-api\Graphapi.Api\bin\Debug\net5.0\tr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\1. beto\1.3. mycode\Samples\BeyondNet.Samples.NetGraphQL\Grappql-api\Graphapi.Api\bin\Debug\net5.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\1. beto\1.3. mycode\Samples\BeyondNet.Samples.NetGraphQL\Grappql-api\Graphapi.Api\bin\Debug\net5.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\1. beto\1.3. mycode\Samples\BeyondNet.Samples.NetGraphQL\Grappql-api\Graphapi.Api\bin\Debug\net5.0\cs\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\1. beto\1.3. mycode\Samples\BeyondNet.Samples.NetGraphQL\Grappql-api\Graphapi.Api\bin\Debug\net5.0\de\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\1. beto\1.3. mycode\Samples\BeyondNet.Samples.NetGraphQL\Grappql-api\Graphapi.Api\bin\Debug\net5.0\es\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\1. beto\1.3. mycode\Samples\BeyondNet.Samples.NetGraphQL\Grappql-api\Graphapi.Api\bin\Debug\net5.0\fr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\1. beto\1.3. mycode\Samples\BeyondNet.Samples.NetGraphQL\Grappql-api\Graphapi.Api\bin\Debug\net5.0\it\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\1. beto\1.3. mycode\Samples\BeyondNet.Samples.NetGraphQL\Grappql-api\Graphapi.Api\bin\Debug\net5.0\ja\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\1. beto\1.3. mycode\Samples\BeyondNet.Samples.NetGraphQL\Grappql-api\Graphapi.Api\bin\Debug\net5.0\ko\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\1. beto\1.3. mycode\Samples\BeyondNet.Samples.NetGraphQL\Grappql-api\Graphapi.Api\bin\Debug\net5.0\pl\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\1. beto\1.3. mycode\Samples\BeyondNet.Samples.NetGraphQL\Grappql-api\Graphapi.Api\bin\Debug\net5.0\pt-BR\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\1. beto\1.3. mycode\Samples\BeyondNet.Samples.NetGraphQL\Grappql-api\Graphapi.Api\bin\Debug\net5.0\ru\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\1. beto\1.3. mycode\Samples\BeyondNet.Samples.NetGraphQL\Grappql-api\Graphapi.Api\bin\Debug\net5.0\tr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\1. beto\1.3. mycode\Samples\BeyondNet.Samples.NetGraphQL\Grappql-api\Graphapi.Api\bin\Debug\net5.0\zh-Hans\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\1. beto\1.3. mycode\Samples\BeyondNet.Samples.NetGraphQL\Grappql-api\Graphapi.Api\bin\Debug\net5.0\zh-Hant\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\1. beto\1.3. mycode\Samples\BeyondNet.Samples.NetGraphQL\Grappql-api\Graphapi.Api\bin\Debug\net5.0\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+D:\1. beto\1.3. mycode\Samples\BeyondNet.Samples.NetGraphQL\Grappql-api\Graphapi.Api\bin\Debug\net5.0\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+D:\1. beto\1.3. mycode\Samples\BeyondNet.Samples.NetGraphQL\Grappql-api\Graphapi.Api\bin\Debug\net5.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+D:\1. beto\1.3. mycode\Samples\BeyondNet.Samples.NetGraphQL\Grappql-api\Graphapi.Api\bin\Debug\net5.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.pdb
+D:\1. beto\1.3. mycode\Samples\BeyondNet.Samples.NetGraphQL\Grappql-api\Graphapi.Api\bin\Debug\net5.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+D:\1. beto\1.3. mycode\Samples\BeyondNet.Samples.NetGraphQL\Grappql-api\Graphapi.Api\bin\Debug\net5.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.pdb
+D:\1. beto\1.3. mycode\Samples\BeyondNet.Samples.NetGraphQL\Grappql-api\Graphapi.Api\bin\Debug\net5.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+D:\1. beto\1.3. mycode\Samples\BeyondNet.Samples.NetGraphQL\Grappql-api\Graphapi.Api\bin\Debug\net5.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.pdb
+D:\1. beto\1.3. mycode\Samples\BeyondNet.Samples.NetGraphQL\Grappql-api\Graphapi.Api\bin\Debug\net5.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+D:\1. beto\1.3. mycode\Samples\BeyondNet.Samples.NetGraphQL\Grappql-api\Graphapi.Api\bin\Debug\net5.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.pdb
+D:\1. beto\1.3. mycode\Samples\BeyondNet.Samples.NetGraphQL\Grappql-api\Graphapi.Api\bin\Debug\net5.0\runtimes\win-arm\lib\net5.0\dotnet-aspnet-codegenerator-design.exe
+D:\1. beto\1.3. mycode\Samples\BeyondNet.Samples.NetGraphQL\Grappql-api\Graphapi.Api\bin\Debug\net5.0\runtimes\win-arm64\lib\net5.0\dotnet-aspnet-codegenerator-design.exe
+D:\1. beto\1.3. mycode\Samples\BeyondNet.Samples.NetGraphQL\Grappql-api\Graphapi.Api\bin\Debug\net5.0\runtimes\win-arm64\native\sni.dll
+D:\1. beto\1.3. mycode\Samples\BeyondNet.Samples.NetGraphQL\Grappql-api\Graphapi.Api\bin\Debug\net5.0\runtimes\win-x64\native\sni.dll
+D:\1. beto\1.3. mycode\Samples\BeyondNet.Samples.NetGraphQL\Grappql-api\Graphapi.Api\bin\Debug\net5.0\runtimes\win-x86\native\sni.dll
+D:\1. beto\1.3. mycode\Samples\BeyondNet.Samples.NetGraphQL\Grappql-api\Graphapi.Api\bin\Debug\net5.0\runtimes\alpine-x64\native\libe_sqlite3.so
+D:\1. beto\1.3. mycode\Samples\BeyondNet.Samples.NetGraphQL\Grappql-api\Graphapi.Api\bin\Debug\net5.0\runtimes\linux-arm\native\libe_sqlite3.so
+D:\1. beto\1.3. mycode\Samples\BeyondNet.Samples.NetGraphQL\Grappql-api\Graphapi.Api\bin\Debug\net5.0\runtimes\linux-arm64\native\libe_sqlite3.so
+D:\1. beto\1.3. mycode\Samples\BeyondNet.Samples.NetGraphQL\Grappql-api\Graphapi.Api\bin\Debug\net5.0\runtimes\linux-armel\native\libe_sqlite3.so
+D:\1. beto\1.3. mycode\Samples\BeyondNet.Samples.NetGraphQL\Grappql-api\Graphapi.Api\bin\Debug\net5.0\runtimes\linux-mips64\native\libe_sqlite3.so
+D:\1. beto\1.3. mycode\Samples\BeyondNet.Samples.NetGraphQL\Grappql-api\Graphapi.Api\bin\Debug\net5.0\runtimes\linux-musl-x64\native\libe_sqlite3.so
+D:\1. beto\1.3. mycode\Samples\BeyondNet.Samples.NetGraphQL\Grappql-api\Graphapi.Api\bin\Debug\net5.0\runtimes\linux-x64\native\libe_sqlite3.so
+D:\1. beto\1.3. mycode\Samples\BeyondNet.Samples.NetGraphQL\Grappql-api\Graphapi.Api\bin\Debug\net5.0\runtimes\linux-x86\native\libe_sqlite3.so
+D:\1. beto\1.3. mycode\Samples\BeyondNet.Samples.NetGraphQL\Grappql-api\Graphapi.Api\bin\Debug\net5.0\runtimes\osx-x64\native\libe_sqlite3.dylib
+D:\1. beto\1.3. mycode\Samples\BeyondNet.Samples.NetGraphQL\Grappql-api\Graphapi.Api\bin\Debug\net5.0\runtimes\win-arm\native\e_sqlite3.dll
+D:\1. beto\1.3. mycode\Samples\BeyondNet.Samples.NetGraphQL\Grappql-api\Graphapi.Api\bin\Debug\net5.0\runtimes\win-arm64\native\e_sqlite3.dll
+D:\1. beto\1.3. mycode\Samples\BeyondNet.Samples.NetGraphQL\Grappql-api\Graphapi.Api\bin\Debug\net5.0\runtimes\win-x64\native\e_sqlite3.dll
+D:\1. beto\1.3. mycode\Samples\BeyondNet.Samples.NetGraphQL\Grappql-api\Graphapi.Api\bin\Debug\net5.0\runtimes\win-x86\native\e_sqlite3.dll
+D:\1. beto\1.3. mycode\Samples\BeyondNet.Samples.NetGraphQL\Grappql-api\Graphapi.Api\bin\Debug\net5.0\runtimes\unix\lib\netcoreapp2.1\System.Data.SqlClient.dll
+D:\1. beto\1.3. mycode\Samples\BeyondNet.Samples.NetGraphQL\Grappql-api\Graphapi.Api\bin\Debug\net5.0\runtimes\win\lib\netcoreapp2.1\System.Data.SqlClient.dll
+D:\1. beto\1.3. mycode\Samples\BeyondNet.Samples.NetGraphQL\Grappql-api\Graphapi.Api\bin\Debug\net5.0\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+D:\1. beto\1.3. mycode\Samples\BeyondNet.Samples.NetGraphQL\Grappql-api\Graphapi.Api\bin\Debug\net5.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+D:\1. beto\1.3. mycode\Samples\BeyondNet.Samples.NetGraphQL\Grappql-api\Graphapi.Api\bin\Debug\net5.0\Graphapi.Data.dll
+D:\1. beto\1.3. mycode\Samples\BeyondNet.Samples.NetGraphQL\Grappql-api\Graphapi.Api\bin\Debug\net5.0\Graphapi.Graphql.dll
+D:\1. beto\1.3. mycode\Samples\BeyondNet.Samples.NetGraphQL\Grappql-api\Graphapi.Api\bin\Debug\net5.0\System.Reactive.dll
+D:\1. beto\1.3. mycode\Samples\BeyondNet.Samples.NetGraphQL\Grappql-api\Graphapi.Api\bin\Debug\net5.0\Graphapi.Data.pdb
+D:\1. beto\1.3. mycode\Samples\BeyondNet.Samples.NetGraphQL\Grappql-api\Graphapi.Api\bin\Debug\net5.0\Graphapi.Graphql.pdb
+D:\1. beto\1.3. mycode\Samples\BeyondNet.Samples.NetGraphQL\Grappql-api\Graphapi.Api\bin\Debug\net5.0\System.Reactive.xml
+D:\1. beto\1.3. mycode\Samples\BeyondNet.Samples.NetGraphQL\Grappql-api\Graphapi.Api\obj\Debug\net5.0\Graphapi.Api.csproj.AssemblyReference.cache
+D:\1. beto\1.3. mycode\Samples\BeyondNet.Samples.NetGraphQL\Grappql-api\Graphapi.Api\obj\Debug\net5.0\Graphapi.Api.GeneratedMSBuildEditorConfig.editorconfig
+D:\1. beto\1.3. mycode\Samples\BeyondNet.Samples.NetGraphQL\Grappql-api\Graphapi.Api\obj\Debug\net5.0\Graphapi.Api.AssemblyInfoInputs.cache
+D:\1. beto\1.3. mycode\Samples\BeyondNet.Samples.NetGraphQL\Grappql-api\Graphapi.Api\obj\Debug\net5.0\Graphapi.Api.AssemblyInfo.cs
+D:\1. beto\1.3. mycode\Samples\BeyondNet.Samples.NetGraphQL\Grappql-api\Graphapi.Api\obj\Debug\net5.0\Graphapi.Api.csproj.CoreCompileInputs.cache
+D:\1. beto\1.3. mycode\Samples\BeyondNet.Samples.NetGraphQL\Grappql-api\Graphapi.Api\obj\Debug\net5.0\Graphapi.Api.MvcApplicationPartsAssemblyInfo.cs
+D:\1. beto\1.3. mycode\Samples\BeyondNet.Samples.NetGraphQL\Grappql-api\Graphapi.Api\obj\Debug\net5.0\Graphapi.Api.MvcApplicationPartsAssemblyInfo.cache
+D:\1. beto\1.3. mycode\Samples\BeyondNet.Samples.NetGraphQL\Grappql-api\Graphapi.Api\obj\Debug\net5.0\staticwebassets\Graphapi.Api.StaticWebAssets.Manifest.cache
+D:\1. beto\1.3. mycode\Samples\BeyondNet.Samples.NetGraphQL\Grappql-api\Graphapi.Api\obj\Debug\net5.0\staticwebassets\Graphapi.Api.StaticWebAssets.xml
+D:\1. beto\1.3. mycode\Samples\BeyondNet.Samples.NetGraphQL\Grappql-api\Graphapi.Api\obj\Debug\net5.0\scopedcss\bundle\Graphapi.Api.styles.css
+D:\1. beto\1.3. mycode\Samples\BeyondNet.Samples.NetGraphQL\Grappql-api\Graphapi.Api\obj\Debug\net5.0\Graphapi.Api.RazorTargetAssemblyInfo.cache
+D:\1. beto\1.3. mycode\Samples\BeyondNet.Samples.NetGraphQL\Grappql-api\Graphapi.Api\obj\Debug\net5.0\Graphapi.Api.dll
+D:\1. beto\1.3. mycode\Samples\BeyondNet.Samples.NetGraphQL\Grappql-api\Graphapi.Api\obj\Debug\net5.0\ref\Graphapi.Api.dll
+D:\1. beto\1.3. mycode\Samples\BeyondNet.Samples.NetGraphQL\Grappql-api\Graphapi.Api\obj\Debug\net5.0\Graphapi.Api.pdb
+D:\1. beto\1.3. mycode\Samples\BeyondNet.Samples.NetGraphQL\Grappql-api\Graphapi.Api\obj\Debug\net5.0\Graphapi.Api.genruntimeconfig.cache
